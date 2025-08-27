@@ -1,7 +1,7 @@
 # Hi, I'm Vivek 👋
 
 Founder/CEO at **SoftSensor AI** and **LMDMax**. I build **practical AI** systems—combining vision + LLMs—for:
-- **Document Intelligence** (OCR/HITL, GxP/regulatory, BMR validation)
+- **Document Intelligence** (OCR/HITL, GxP/regulatory, Equity docs, Pharma docs, and multiple flexible document inputs/validation)
 - **Medical CV** (WSI pipelines, grading, decision support)
 - **Fleet damage detection** (high-throughput, structured outputs)
 
