@@ -8,7 +8,7 @@ Founder/CEO at **SoftSensor AI** and **LMDMax**. I build **practical AI** system
 > Bias to action. Ship value, measure impact, iterate.
 
 ## What I'm building
-- **Document AI platform**: OCR + layout + HITL for pharma & insurance (56+ validation rules, master-template checks, provenance).
+- **Document AI platform**: OCR + layout + HITL for pharma & insurance  master-template checks, provenance).
 - **Pathology tooling (PRR.ai)**: WSI pipelines (grading/triage), vision-LLM workflows, reviewer-first UX.
 - **LMDMax**: scalable CV pipeline processing tens of thousands of images/day with human-in-the-loop QA.
 
